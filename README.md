@@ -8,7 +8,7 @@ Code samples from **Helix Run**, a top-down dungeon-crawler roguelite with real-
 
 You are Gene, a young baseball player who stumbled into a strange world filled with wild creatures called Mons. Armed with a mysterious device, she can capture them and transform into them at will. The game features:
 
-- Real-time transformation combat inspired by BEN 10
+- Real-time transformation combat
 - Elemental types with terrain interactions
 - Procedurally generated dungeons
 - Evolution mechanics and passive ability systems
