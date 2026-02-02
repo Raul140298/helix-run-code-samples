@@ -6,7 +6,7 @@ Code samples from **Helix Run**, a top-down dungeon-crawler roguelite with real-
 
 ## About the Project
 
-Helix Run is a roguelite where players control Gene, a DNA collector who captures monsters ("Mons") and transforms into them to use their unique abilities. The game features:
+You are Gene, a young baseball player who stumbled into a strange world filled with wild creatures called Mons. Armed with a mysterious device, she can capture them and transform into them at will. The game features:
 
 - Real-time transformation combat inspired by BEN 10
 - Elemental types with terrain interactions
